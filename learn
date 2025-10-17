@@ -1,0 +1,107 @@
+Python Learning Structure: Beginner to Advanced + Practice
+
+Lesson 1: Python Setup & Basics
+
+Topics:
+Installing Python & IDE (VSCode, Jupyter, or PyCharm)
+Python syntax: variables, data types (int, float, str, bool)
+Basic input/output (print(), input())
+Comments and code formatting
+
+Practice:
+Write a program that asks for your name and age, then prints a greeting.
+Convert temperature from Celsius to Fahrenheit.
+
+Lesson 2: Control Flow
+Topics:
+if, elif, else
+for loops, while loops
+Loop control: break, continue, pass
+
+Practice:
+Write a program to find all even numbers between 1 and 50.
+Create a guessing game where the user has to guess a secret number.
+
+Lesson 3: Data Structures
+Topics:
+Lists, Tuples, Sets, Dictionaries
+List comprehension
+Common methods: append, remove, pop, keys, values
+
+Practice:
+Create a list of your favorite movies and print them using a loop.
+Write a program to count the frequency of each word in a given sentence.
+
+Lesson 4: Functions and Modules
+Topics:
+Defining functions, parameters, and return values
+Variable scope (local vs global)
+Lambda functions
+Importing standard modules (math, random)
+
+Practice:
+Write a function to calculate the factorial of a number.
+Use the random module to simulate rolling a dice.
+
+Lesson 5: File Handling
+Topics:
+Reading and writing files with open()
+Using with statement for file operations
+Working with CSV and JSON files (basic introduction)
+
+Practice:
+Write a program that reads a text file and counts the number of lines.
+Save a dictionary as JSON and then read it back.
+
+Lesson 6: Error Handling
+Topics:
+try, except, finally
+Catching specific exceptions
+Raising exceptions
+
+Practice:
+Write a program that safely divides two numbers, handling division by zero.
+Create a custom exception for invalid input.
+
+Lesson 7: Object-Oriented Programming (OOP)
+Topics:
+Classes and objects
+Attributes and methods
+__init__ constructor
+Inheritance and polymorphism
+
+Practice:
+Create a Car class with attributes like make, model, and methods like start().
+Create a Student subclass from a Person class with additional attributes.
+
+Lesson 8: Advanced Python Concepts
+Topics:
+Generators and iterators
+Decorators
+Context managers (with)
+Regular expressions basics
+
+Practice:
+Write a generator to produce Fibonacci numbers.
+Create a decorator to time the execution of a function.
+
+Lesson 9: Working with Popular Libraries
+Topics:
+requests for web API calls
+pandas and numpy basics
+matplotlib for data visualization
+
+Practice:
+Fetch data from a public API and print JSON.
+Load a CSV with pandas and plot some data.
+
+Lesson 10: Build Projects & Practice Coding Challenges
+Projects:
+To-Do List application (CLI or simple GUI)
+Web scraper to get news headlines
+Simple calculator or text-based game
+
+Practice Platforms:
+LeetCode (Easy and Medium problems)
+HackerRank Python domain
+Codewars (Kata problems)
