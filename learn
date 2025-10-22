@@ -4,13 +4,13 @@ Lesson 1: Python Setup & Basics
 
 Topics:
 Installing Python & IDE (VSCode, Jupyter, or PyCharm)
-Python syntax: variables, data types (int, float, str, bool)
-Basic input/output (print(), input())
-Comments and code formatting
+Python syntax: variables, data types (int, float, str, bool)--Done
+Basic input/output (print(), input())--Done
+Comments and code formatting--Done
 
 Practice:
-Write a program that asks for your name and age, then prints a greeting.
-Convert temperature from Celsius to Fahrenheit.
+Write a program that asks for your name and age, then prints a greeting.--Done
+Convert temperature from Celsius to Fahrenheit.--Done
 
 Lesson 2: Control Flow
 Topics:
