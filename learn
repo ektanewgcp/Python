@@ -11,7 +11,7 @@ Comments and code formatting--Done
 Practice:
 Write a program that asks for your name and age, then prints a greeting.--Done
 Convert temperature from Celsius to Fahrenheit.--Done
-
+=====================
 Lesson 2: Control Flow
 Topics:
 if, elif, else
