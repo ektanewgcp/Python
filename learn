@@ -31,7 +31,7 @@ Common methods: append, remove, pop, keys, values
 Practice:
 Create a list of your favorite movies and print them using a loop.
 Write a program to count the frequency of each word in a given sentence.
-
+==================
 Lesson 4: Functions and Modules
 Topics:
 Defining functions, parameters, and return values
