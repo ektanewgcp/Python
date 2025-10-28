@@ -42,7 +42,7 @@ Importing standard modules (math, random)
 Practice:
 Write a function to calculate the factorial of a number.
 Use the random module to simulate rolling a dice.
-
+==================
 Lesson 5: File Handling
 Topics:
 Reading and writing files with open()
